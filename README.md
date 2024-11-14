@@ -1,6 +1,14 @@
 # Olivier-Portfolio
 My Portfolio
 <h1>Hi, I'm Olivier! <br/><a href="https://github.com/noirs5/Olivier-Portfolio.git">
+- Experienced DevOps Engineer skilled in automating deployment pipelines, managing
+cloud infrastructure, and optimizing CI/CD workfows to enhance software delivery
+speed and quality. Profcient in AWS, Docker, Kubernetes, and Terraform, with
+hands-on experience in building scalable infrastructure and monitoring systems.
+Successfully implemented projects that reduced deployment times by 30% and
+improved system reliability through automated testing and continuous monitoring.
+Strong scripting abilities in Python and Bash, with a focus on security, scalability, and
+team collaboration to drive seamless operations.
 
 <h2> DevOps Engineer:</h2>
 
