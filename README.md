@@ -67,14 +67,14 @@
       quarterly sales by 10%.
     - Engaged proactively with customers, delivering exceptional service and
       fostering repeat business.
-- <h2>Education</h2>
-    - <b> Information Technology, Northern Community college. </b> 
+- <b> Education</b>
+    - Information Technology, Northern Community college. 
     - Gained foundational knowledge in networking and computer communication,
         including LANs, WANs, and internet technologies.
-    - <b> Certifcations </b> 
+    - Certifcations 
     - Certifed DevOps Engineer-Professional, IBT Learning
     - AWS eBridge Training
-     - AWS Certifed Cloud Practitioner
+    - AWS Certifed Cloud Practitioner
 
 - <b> Skills</b>
     - AWS
