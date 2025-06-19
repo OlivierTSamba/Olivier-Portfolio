@@ -2,7 +2,7 @@ Olivier Samba
 Department Manager/ Sales Supervisor - Home Depot
 Fredericksburg VA 22405
 oliviertsamba2017@gmail.com
-5712441341
+
 
 Dynamic leader with 16+ years of experience in project management, sales analysis, and team leadership. Demonstrates proficiency in Microsoft Office, data entry, and communication, driving departmental efficiency and sales growth. Passionate about fostering team development and implementing strategic initiatives for continuous improvement.
 
